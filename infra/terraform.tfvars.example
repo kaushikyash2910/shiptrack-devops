@@ -1,0 +1,2 @@
+# Copy to terraform.tfvars and replace with your GitHub owner/repository.
+github_repository = "YOUR_GITHUB_USERNAME/shiptrack-devops"
